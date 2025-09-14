@@ -1,4 +1,4 @@
-aiogram==2.24.1
+aiogram==2.25.2
 aiosqlite
 python-dotenv
 pandas
