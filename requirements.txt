@@ -1,0 +1,5 @@
+aiogram==2.24.1
+aiosqlite
+python-dotenv
+pandas
+openpyxl
